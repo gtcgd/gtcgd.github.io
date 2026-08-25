@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>国铁采购单库 · 总检索</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>国铁采购单库 · 总检索</h1>
+    <p class="subtitle">跨全部分片检索 · 共 <strong id="total-count">0</strong> 单</p>
+  </header>
+
+  <section class="search-box">
+    <div class="mode-selector" role="radiogroup" aria-label="检索方式">
+      <label><input type="radio" name="mode" value="jdOrderNo" checked> 京东单号</label>
+      <label><input type="radio" name="mode" value="gtOrderNo"> 国铁单号</label>
+    </div>
+    <div class="search-bar">
+      <input id="query" type="text" placeholder="输入京东单号（支持前缀）" autocomplete="off" spellcheck="false">
+    </div>
+  </section>
+
+  <section class="stats">
+    <span><strong id="result-count">0</strong> 条结果</span>
+    <span class="sep">·</span>
+    <span id="shard-info" class="muted"></span>
+  </section>
+
+  <section class="results">
+    <table>
+      <thead>
+        <tr>
+          <th class="idx">#</th>
+          <th>京东单号</th>
+          <th>国铁单号</th>
+          <th>所在分片</th>
+          <th>操作</th>
+        </tr>
+      </thead>
+      <tbody id="results-body"></tbody>
+    </table>
+    <div id="empty" class="empty">请输入京东单号或国铁单号进行检索</div>
+  </section>
+
+  <footer>
+    <p>本页聚合所有分片，输入单号即可跨全库检索，并跳转到对应分片下载 PDF。</p>
+  </footer>
+
+  <script src="hub.js"></script>
+</body>
+</html>
