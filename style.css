@@ -471,22 +471,42 @@ footer code {
 .refresh-tip {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
+  gap: 14px;
   margin: 0 0 18px;
-  padding: 14px 18px;
-  background: #fff7e6;
+  padding: 16px 20px;
+  background: linear-gradient(90deg, #fff1e6 0%, #ffe7ba 100%);
   border: 2px solid #fa8c16;
-  border-left-width: 6px;
-  border-radius: 8px;
-  color: #874d00;
-  font-size: 20px;
-  font-weight: 600;
+  border-left: 8px solid #fa2d00;
+  border-radius: 10px;
+  color: #5c2e00;
+  font-size: 21px;
+  font-weight: 700;
   line-height: 1.5;
+  box-shadow: 0 4px 14px rgba(250, 84, 28, 0.18);
+  animation: rt-pulse 2.4s ease-in-out infinite;
+}
+@keyframes rt-pulse {
+  0%, 100% { box-shadow: 0 4px 14px rgba(250, 84, 28, 0.18); }
+  50%      { box-shadow: 0 6px 26px rgba(250, 84, 28, 0.42); }
+}
+.refresh-tip .rt-badge {
+  flex: 0 0 auto;
+  width: 30px;
+  height: 30px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #fa2d00;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 20px;
+  font-weight: 800;
+  font-family: Georgia, "Times New Roman", serif;
+  box-shadow: 0 2px 6px rgba(250, 45, 0, 0.4);
 }
 .refresh-tip .rt-text b {
-  color: #fa541c;
-  font-size: 22px;
+  color: #fa2d00;
+  font-size: 23px;
 }
 .refresh-tip kbd {
   display: inline-block;
@@ -506,12 +526,12 @@ footer code {
   border: none;
   background: transparent;
   color: #874d00;
-  font-size: 24px;
+  font-size: 26px;
   line-height: 1;
   cursor: pointer;
   padding: 0 4px;
 }
-.refresh-tip .rt-close:hover { color: #fa541c; }
+.refresh-tip .rt-close:hover { color: #fa2d00; }
 
 /* === 响应式 === */
 @media (max-width: 900px) {
@@ -519,6 +539,7 @@ footer code {
   th, td { padding: 8px 6px; font-size: 12.5px; }
   .search-bar input { padding: 8px 10px; }
   .search-bar button { padding: 8px 14px; }
-  .refresh-tip { font-size: 16px; padding: 12px 14px; }
-  .refresh-tip .rt-text b { font-size: 18px; }
+  .refresh-tip { font-size: 17px; padding: 12px 14px; }
+  .refresh-tip .rt-text b { font-size: 19px; }
+  .refresh-tip .rt-badge { width: 26px; height: 26px; font-size: 18px; }
 }
