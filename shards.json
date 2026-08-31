@@ -4814,7 +4814,7 @@
     {
       "name": "分片03（2026-08-31）",
       "date_range": "2026-08-31",
-      "count": 19,
+      "count": 9,
       "url": "https://95166eaa2fcb42e396540c20a9d26c81.app.workbuddy.link",
       "orders": [
         {
@@ -4861,56 +4861,6 @@
           "gtOrderNo": "1250918110402828",
           "jdOrderNo": "322420063029",
           "pdf": "pdfs/2026-08-31/09-30/322420063029.pdf"
-        },
-        {
-          "gtOrderNo": "1260820091400883",
-          "jdOrderNo": "350571458568",
-          "pdf": "procurement-library/pdfs/real-test/350571458568.pdf"
-        },
-        {
-          "gtOrderNo": "1260820083200279",
-          "jdOrderNo": "350569340457",
-          "pdf": "procurement-library/pdfs/real-test/350569340457.pdf"
-        },
-        {
-          "gtOrderNo": "1260819174607341",
-          "jdOrderNo": "350549015499",
-          "pdf": "procurement-library/pdfs/real-test/350549015499.pdf"
-        },
-        {
-          "gtOrderNo": "1260819175807431",
-          "jdOrderNo": "350330262851",
-          "pdf": "procurement-library/pdfs/real-test/350330262851.pdf"
-        },
-        {
-          "gtOrderNo": "1260820081400126",
-          "jdOrderNo": "350094828460",
-          "pdf": "procurement-library/pdfs/real-test/350094828460.pdf"
-        },
-        {
-          "gtOrderNo": "1260819192007620",
-          "jdOrderNo": "350089059052",
-          "pdf": "procurement-library/pdfs/real-test/350089059052.pdf"
-        },
-        {
-          "gtOrderNo": "1260819194207683",
-          "jdOrderNo": "332096467287",
-          "pdf": "procurement-library/pdfs/real-test/332096467287.pdf"
-        },
-        {
-          "gtOrderNo": "1260820083300284",
-          "jdOrderNo": "331863052440",
-          "pdf": "procurement-library/pdfs/real-test/331863052440.pdf"
-        },
-        {
-          "gtOrderNo": "1260819193907669",
-          "jdOrderNo": "331843448857",
-          "pdf": "procurement-library/pdfs/real-test/331843448857.pdf"
-        },
-        {
-          "gtOrderNo": "1260820092501059",
-          "jdOrderNo": "331587629810",
-          "pdf": "procurement-library/pdfs/real-test/331587629810.pdf"
         }
       ]
     }
