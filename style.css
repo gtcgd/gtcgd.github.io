@@ -168,6 +168,55 @@ header h1 {
   color: var(--c-accent);
 }
 
+/* === 清理控件(保留 N 天前 + 清理) === */
+.cleanup-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: 8px;
+}
+.cleanup-group .cleanup-label {
+  font-size: 12px;
+  color: var(--c-muted);
+  user-select: none;
+}
+.cleanup-group .num-input {
+  width: 56px;
+  padding: 4px 6px;
+  border: 1px solid var(--c-border);
+  border-radius: 4px;
+  font-size: 13px;
+  background: #fff;
+  text-align: center;
+  color: var(--c-text);
+  outline: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.cleanup-group .num-input:focus {
+  border-color: var(--c-accent);
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.15);
+}
+/* 组内按钮不再单独右推,贴着输入框 */
+.cleanup-group button.ghost {
+  margin-left: 0;
+  padding: 5px 12px;
+  background: transparent;
+  border: 1px solid var(--c-border);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  color: var(--c-muted);
+  transition: all 0.15s;
+}
+.cleanup-group button.ghost:hover {
+  border-color: var(--c-accent);
+  color: var(--c-accent);
+}
+.cleanup-group button.ghost:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
 /* === 结果表 === */
 .results {
   background: var(--c-card);
