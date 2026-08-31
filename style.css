@@ -467,10 +467,63 @@ footer code {
   color: #34495e;
 }
 
+/* === 刷新提醒横幅（大字） === */
+.notice-banner {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  padding: 16px 20px;
+  background: #fff7e6;
+  border: 2px solid #ffd591;
+  border-left: 8px solid #fa8c16;
+  border-radius: var(--radius);
+  color: #874d00;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.4;
+  box-shadow: var(--shadow-sm);
+}
+.notice-banner .notice-text {
+  flex: 1;
+}
+.notice-banner .notice-text strong {
+  color: #d46b08;
+  font-size: 22px;
+}
+.notice-banner kbd {
+  display: inline-block;
+  padding: 1px 7px;
+  margin: 0 2px;
+  font-family: "SF Mono", Consolas, monospace;
+  font-size: 14px;
+  font-weight: 600;
+  background: #fff;
+  border: 1px solid #ffd591;
+  border-radius: 4px;
+  color: #874d00;
+}
+.notice-banner .notice-close {
+  flex: none;
+  background: transparent;
+  border: none;
+  font-size: 28px;
+  line-height: 1;
+  cursor: pointer;
+  color: #fa8c16;
+  padding: 0 4px;
+  transition: color 0.15s;
+}
+.notice-banner .notice-close:hover {
+  color: #d46b08;
+}
+
 /* === 响应式 === */
 @media (max-width: 900px) {
   body { padding: 12px; }
   th, td { padding: 8px 6px; font-size: 12.5px; }
   .search-bar input { padding: 8px 10px; }
   .search-bar button { padding: 8px 14px; }
+  .notice-banner { font-size: 16px; padding: 12px 14px; }
+  .notice-banner .notice-text strong { font-size: 18px; }
 }
