@@ -467,10 +467,58 @@ footer code {
   color: #34495e;
 }
 
+/* === 商家页提醒(搜不到先刷新) === */
+.refresh-tip {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0 0 18px;
+  padding: 14px 18px;
+  background: #fff7e6;
+  border: 2px solid #fa8c16;
+  border-left-width: 6px;
+  border-radius: 8px;
+  color: #874d00;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.refresh-tip .rt-text b {
+  color: #fa541c;
+  font-size: 22px;
+}
+.refresh-tip kbd {
+  display: inline-block;
+  padding: 1px 6px;
+  margin: 0 1px;
+  background: #fff;
+  border: 1px solid #d9d9d9;
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  font-family: "SF Mono", Consolas, monospace;
+  font-size: 14px;
+  font-weight: 700;
+  color: #333;
+}
+.refresh-tip .rt-close {
+  flex: 0 0 auto;
+  border: none;
+  background: transparent;
+  color: #874d00;
+  font-size: 24px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 4px;
+}
+.refresh-tip .rt-close:hover { color: #fa541c; }
+
 /* === 响应式 === */
 @media (max-width: 900px) {
   body { padding: 12px; }
   th, td { padding: 8px 6px; font-size: 12.5px; }
   .search-bar input { padding: 8px 10px; }
   .search-bar button { padding: 8px 14px; }
+  .refresh-tip { font-size: 16px; padding: 12px 14px; }
+  .refresh-tip .rt-text b { font-size: 18px; }
 }

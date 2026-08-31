@@ -12,6 +12,12 @@
     <p class="subtitle">跨全部分片检索 · 共 <strong id="total-count">0</strong> 单</p>
   </header>
 
+  <!-- 搜不到先刷新提醒 -->
+  <div class="refresh-tip" id="refresh-tip">
+    <span class="rt-text">搜不到？先<b>刷新</b>再试（按 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd> 或 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>）</span>
+    <button type="button" class="rt-close" aria-label="关闭" onclick="document.getElementById('refresh-tip').remove()">×</button>
+  </div>
+
   <section class="search-box">
     <div class="mode-selector" role="radiogroup" aria-label="检索方式">
       <label><input type="radio" name="mode" value="jdOrderNo" checked> 京东单号</label>
