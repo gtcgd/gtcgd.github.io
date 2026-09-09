@@ -45,7 +45,7 @@
 
   async function load() {
     try {
-      const res = await fetch("shards.json?_=" + Date.now(), { cache: "no-store" });
+      const res = await fetch("shards.json", { cache: "default" });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const obj = await res.json();
       STATE.shards = obj.shards || [];
