@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>国铁采购单库</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>国铁采购单库</h1>
+    <p class="subtitle">Procurement Order Library · 京东 ⇄ 国铁商城</p>
+  </header>
+
+  <section class="search-box">
+    <div class="mode-selector" role="radiogroup" aria-label="检索方式">
+      <label><input type="radio" name="mode" value="jdOrderNo" checked> 京东单号</label>
+      <label><input type="radio" name="mode" value="gtOrderNo"> 国铁单号</label>
+    </div>
+
+    <div class="search-bar">
+      <input id="query" type="text" placeholder="输入京东单号（支持前缀）" autocomplete="off" spellcheck="false">
+      <button id="search-btn" type="button">搜索</button>
+      <button id="reset-btn" type="button" class="ghost">重置</button>
+    </div>
+
+    <div class="filters">
+      <label>批次:
+        <select id="batch-filter"><option value="">全部批次</option></select>
+      </label>
+      <label class="cb"><input id="today-only" type="checkbox"> 仅今日新增</label>
+    </div>
+  </section>
+
+  <section class="stats">
+    <span><strong id="result-count">0</strong> 条结果</span>
+    <span class="sep">·</span>
+    <span>共 <strong id="total-count">0</strong> 条订单</span>
+    <span class="sep">·</span>
+    <span><strong id="batch-count">0</strong> 个批次</span>
+    <span class="sep">·</span>
+    <span id="index-time" class="muted"></span>
+  </section>
+
+  <section class="results">
+    <table>
+      <thead>
+        <tr>
+          <th class="idx">#</th>
+          <th>京东单号</th>
+          <th>国铁单号</th>
+          <th>品牌</th>
+          <th>收货人</th>
+          <th>批次</th>
+          <th>页数</th>
+          <th>入库时间</th>
+          <th>操作</th>
+        </tr>
+      </thead>
+      <tbody id="results-body"></tbody>
+    </table>
+    <div id="empty" class="empty">请输入京东单号或国铁单号进行检索</div>
+  </section>
+
+  <footer>
+    <p>凭京东单号或国铁单号检索采购单并下载 PDF。</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
