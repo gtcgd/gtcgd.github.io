@@ -1,10 +1,10 @@
 {
   "shards": [
     {
-      "name": "分片01（2026-09-08~2026-09-07）",
-      "date_range": "2026-09-08~2026-09-07",
+      "name": "分片01（2026-09-09~2026-09-07）",
+      "date_range": "2026-09-09~2026-09-07",
       "count": 125,
-      "url": "https://85ff4d60c874420f85937884d42ffd7d.app.workbuddy.link",
+      "url": "https://gtcgd.github.io/shards/01/",
       "orders": [
         {
           "gtOrderNo": "1260831093000974",
@@ -634,10 +634,10 @@
       ]
     },
     {
-      "name": "分片02（2026-09-08~2026-09-07）",
-      "date_range": "2026-09-08~2026-09-07",
+      "name": "分片02（2026-09-09~2026-09-07）",
+      "date_range": "2026-09-09~2026-09-07",
       "count": 107,
-      "url": "https://0fdf0c25f6b9420399b9faa8b9902f4b.app.workbuddy.link",
+      "url": "https://gtcgd.github.io/shards/02/",
       "orders": [
         {
           "gtOrderNo": "1260811135904473",
@@ -1177,10 +1177,10 @@
       ]
     },
     {
-      "name": "分片03（2026-09-08~2026-09-07）",
-      "date_range": "2026-09-08~2026-09-07",
+      "name": "分片03（2026-09-09~2026-09-07）",
+      "date_range": "2026-09-09~2026-09-07",
       "count": 154,
-      "url": "https://95166eaa2fcb42e396540c20a9d26c81.app.workbuddy.link",
+      "url": "https://gtcgd.github.io/shards/03/",
       "orders": [
         {
           "gtOrderNo": "1260812094201559",
@@ -1955,10 +1955,10 @@
       ]
     },
     {
-      "name": "分片04（2026-09-08~2026-09-07）",
-      "date_range": "2026-09-08~2026-09-07",
+      "name": "分片04（2026-09-09~2026-09-07）",
+      "date_range": "2026-09-09~2026-09-07",
       "count": 299,
-      "url": "https://38100c3029e043b0aec7d3b4a067c498.app.workbuddy.link",
+      "url": "https://gtcgd.github.io/shards/04/",
       "orders": [
         {
           "gtOrderNo": "1260902075800038",
@@ -3458,10 +3458,10 @@
       ]
     },
     {
-      "name": "分片05（2026-09-08~2026-09-07）",
-      "date_range": "2026-09-08~2026-09-07",
+      "name": "分片05（2026-09-09~2026-09-07）",
+      "date_range": "2026-09-09~2026-09-07",
       "count": 482,
-      "url": "https://2338910fc47d4dc08482ecfbd99ebad5.app.workbuddy.link",
+      "url": "https://gtcgd.github.io/shards/05/",
       "orders": [
         {
           "gtOrderNo": "1260903155806674",
@@ -5876,8 +5876,8 @@
       ]
     },
     {
-      "name": "分片06（2026-09-08~2026-09-07）",
-      "date_range": "2026-09-08~2026-09-07",
+      "name": "分片06（2026-09-09~2026-09-07）",
+      "date_range": "2026-09-09~2026-09-07",
       "count": 417,
       "url": "https://gtcgd.github.io/shards/06/",
       "orders": [
