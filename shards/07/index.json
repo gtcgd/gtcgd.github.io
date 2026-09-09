@@ -1,0 +1,171 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-09-09T11:04:18+08:00",
+  "totals": {
+    "orders": 15,
+    "orders_before_dedupe": 8866,
+    "fresh_from_scan": 1658,
+    "retained_from_old_index": 0,
+    "dropped_missing_pdf": 0,
+    "batches": 1,
+    "brands": 204
+  },
+  "batches": [
+    {
+      "id": "2026-09-09/09-30",
+      "count": 15
+    }
+  ],
+  "orders": [
+    {
+      "jdOrderNo": "332005171870",
+      "gtOrderNo": "1260909082100147",
+      "brand": "戴尔",
+      "recipient": "⽥九洲（办公室信息运维费）",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/332005171870.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "332000296158",
+      "gtOrderNo": "1260908171409767",
+      "brand": "虎鑫通",
+      "recipient": "付⼴阳",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/332000296158.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331802458256",
+      "gtOrderNo": "1260909100101923",
+      "brand": "惠普",
+      "recipient": "刘颖",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331802458256.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331802327536",
+      "gtOrderNo": "1260909095201699",
+      "brand": "鲁堡",
+      "recipient": "杨佗",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331802327536.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331798133427",
+      "gtOrderNo": "1260909094901614",
+      "brand": "⾼壹⼯机",
+      "recipient": "肖坤明",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331798133427.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331798064851",
+      "gtOrderNo": "1260909094401505",
+      "brand": "公⽜",
+      "recipient": "仉新朝",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331798064851.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331797986514",
+      "gtOrderNo": "1260909100201957",
+      "brand": "得⼒",
+      "recipient": "孙蕊",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331797986514.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331797778995",
+      "gtOrderNo": "1260909091700963",
+      "brand": "章楷",
+      "recipient": "李栋",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331797778995.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331797550770",
+      "gtOrderNo": "1260908142305557",
+      "brand": "安赛瑞",
+      "recipient": "⻩英",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331797550770.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331797312531",
+      "gtOrderNo": "1260909081400101",
+      "brand": "⼼相印",
+      "recipient": "温蔚",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331797312531.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331796132433",
+      "gtOrderNo": "1260908172509920",
+      "brand": "尚为",
+      "recipient": "张俊",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331796132433.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331794273459",
+      "gtOrderNo": "1260908201410770",
+      "brand": "萱遇家纺",
+      "recipient": "才慧",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331794273459.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331793404051",
+      "gtOrderNo": "1260908185010560",
+      "brand": "华荣",
+      "recipient": "胥霞雯",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331793404051.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331792810482",
+      "gtOrderNo": "1260908180610370",
+      "brand": "亿⼒",
+      "recipient": "杨嘉颖",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331792810482.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    },
+    {
+      "jdOrderNo": "331792535539",
+      "gtOrderNo": "1260908172209900",
+      "brand": "海尔",
+      "recipient": "余雷",
+      "batch": "2026-09-09/09-30",
+      "pdf": "pdfs/2026-09-09/09-30/331792535539.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-09T11:04:18+08:00"
+    }
+  ]
+}
