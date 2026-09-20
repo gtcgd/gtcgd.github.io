@@ -1,0 +1,141 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-09-20T14:59:27+08:00",
+  "totals": {
+    "orders": 12,
+    "orders_before_dedupe": 14041,
+    "fresh_from_scan": 1669,
+    "retained_from_old_index": 0,
+    "dropped_missing_pdf": 0,
+    "batches": 1,
+    "brands": 205
+  },
+  "batches": [
+    {
+      "id": "2026-09-20/13-00",
+      "count": 12
+    }
+  ],
+  "orders": [
+    {
+      "jdOrderNo": "351243054769",
+      "gtOrderNo": "1260920144104870",
+      "brand": "",
+      "recipient": "徐飚",
+      "batch": "2026-09-20/13-00",
+      "pdf": "pdfs/2026-09-20/13-00/351243054769.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-20T14:59:26+08:00"
+    },
+    {
+      "jdOrderNo": "351242638865",
+      "gtOrderNo": "1260920141004409",
+      "brand": "海尔",
+      "recipient": "⾼宇鹏",
+      "batch": "2026-09-20/13-00",
+      "pdf": "pdfs/2026-09-20/13-00/351242638865.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-20T14:59:26+08:00"
+    },
+    {
+      "jdOrderNo": "351239400722",
+      "gtOrderNo": "1260920145305100",
+      "brand": "世达",
+      "recipient": "蔺光辉",
+      "batch": "2026-09-20/13-00",
+      "pdf": "pdfs/2026-09-20/13-00/351239400722.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-20T14:59:26+08:00"
+    },
+    {
+      "jdOrderNo": "351239288370",
+      "gtOrderNo": "1260920144704968",
+      "brand": "桃锦堂",
+      "recipient": "陈明雪",
+      "batch": "2026-09-20/13-00",
+      "pdf": "pdfs/2026-09-20/13-00/351239288370.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-20T14:59:26+08:00"
+    },
+    {
+      "jdOrderNo": "351239226226",
+      "gtOrderNo": "1260920144404912",
+      "brand": "",
+      "recipient": "仝琳",
+      "batch": "2026-09-20/13-00",
+      "pdf": "pdfs/2026-09-20/13-00/351239226226.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-20T14:59:26+08:00"
+    },
+    {
+      "jdOrderNo": "351239211058",
+      "gtOrderNo": "1260920091000572",
+      "brand": "罗莱超柔床品",
+      "recipient": "杨晓明",
+      "batch": "2026-09-20/13-00",
+      "pdf": "pdfs/2026-09-20/13-00/351239211058.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-20T14:59:26+08:00"
+    },
+    {
+      "jdOrderNo": "351064880333",
+      "gtOrderNo": "1260920143004675",
+      "brand": "铁科极恒",
+      "recipient": "许⾦利",
+      "batch": "2026-09-20/13-00",
+      "pdf": "pdfs/2026-09-20/13-00/351064880333.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-20T14:59:26+08:00"
+    },
+    {
+      "jdOrderNo": "351064825644",
+      "gtOrderNo": "1260920143004676",
+      "brand": "铁科极恒",
+      "recipient": "张恒",
+      "batch": "2026-09-20/13-00",
+      "pdf": "pdfs/2026-09-20/13-00/351064825644.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-20T14:59:26+08:00"
+    },
+    {
+      "jdOrderNo": "351064767980",
+      "gtOrderNo": "1260920143004682",
+      "brand": "铁科极恒",
+      "recipient": "张⼴智",
+      "batch": "2026-09-20/13-00",
+      "pdf": "pdfs/2026-09-20/13-00/351064767980.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-20T14:59:26+08:00"
+    },
+    {
+      "jdOrderNo": "351064359917",
+      "gtOrderNo": "1260920133204103",
+      "brand": "悍德森",
+      "recipient": "刘秀伟",
+      "batch": "2026-09-20/13-00",
+      "pdf": "pdfs/2026-09-20/13-00/351064359917.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-20T14:59:26+08:00"
+    },
+    {
+      "jdOrderNo": "351057327502",
+      "gtOrderNo": "1260920143004684",
+      "brand": "铁科极恒",
+      "recipient": "杜秀巍",
+      "batch": "2026-09-20/13-00",
+      "pdf": "pdfs/2026-09-20/13-00/351057327502.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-20T14:59:26+08:00"
+    },
+    {
+      "jdOrderNo": "351057327470",
+      "gtOrderNo": "1260920143004677",
+      "brand": "铁科极恒",
+      "recipient": "王东晔",
+      "batch": "2026-09-20/13-00",
+      "pdf": "pdfs/2026-09-20/13-00/351057327470.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-09-20T14:59:26+08:00"
+    }
+  ]
+}
