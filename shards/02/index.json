@@ -1,14 +1,14 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-10T09:17:39+08:00",
+  "generatedAt": "2026-10-14T11:03:16+08:00",
   "totals": {
-    "orders": 27,
-    "orders_before_dedupe": 11742,
-    "fresh_from_scan": 2117,
+    "orders": 20,
+    "orders_before_dedupe": 16417,
+    "fresh_from_scan": 2921,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 8,
-    "brands": 223
+    "batches": 6,
+    "brands": 242
   },
   "batches": [
     {
@@ -34,14 +34,6 @@
     {
       "id": "2026-09-29/09-30",
       "count": 3
-    },
-    {
-      "id": "2026-09-28/13-00",
-      "count": 2
-    },
-    {
-      "id": "2026-09-28/09-30",
-      "count": 5
     }
   ],
   "orders": [
@@ -106,16 +98,6 @@
       "exportedAt": "2026-10-08T09:09:11+08:00"
     },
     {
-      "jdOrderNo": "349685372016",
-      "gtOrderNo": "1260914161507251",
-      "brand": "维达",
-      "recipient": "欧明怀",
-      "batch": "2026-09-28/09-30",
-      "pdf": "pdfs/2026-09-28/09-30/349685372016.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-28T09:15:35+08:00"
-    },
-    {
       "jdOrderNo": "351527101799",
       "gtOrderNo": "1260915145304979",
       "brand": "得⼒",
@@ -144,16 +126,6 @@
       "pdf": "pdfs/2026-09-29/13-00/351234817433.pdf",
       "pageCount": 1,
       "exportedAt": "2026-09-29T15:41:48+08:00"
-    },
-    {
-      "jdOrderNo": "351486153256",
-      "gtOrderNo": "1260915150705220",
-      "brand": "鑫铭铁",
-      "recipient": "汪红城",
-      "batch": "2026-09-28/09-30",
-      "pdf": "pdfs/2026-09-28/09-30/351486153256.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-28T09:15:35+08:00"
     },
     {
       "jdOrderNo": "351259280418",
@@ -186,26 +158,6 @@
       "exportedAt": "2026-09-29T15:41:48+08:00"
     },
     {
-      "jdOrderNo": "351477410346",
-      "gtOrderNo": "1260915165007331",
-      "brand": "鲁堡",
-      "recipient": "汪红城",
-      "batch": "2026-09-28/09-30",
-      "pdf": "pdfs/2026-09-28/09-30/351477410346.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-28T09:15:35+08:00"
-    },
-    {
-      "jdOrderNo": "351468272343",
-      "gtOrderNo": "1260915173308081",
-      "brand": "史丹利",
-      "recipient": "汪红城",
-      "batch": "2026-09-28/13-00",
-      "pdf": "pdfs/2026-09-28/13-00/351468272343.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-28T15:15:09+08:00"
-    },
-    {
       "jdOrderNo": "351267189153",
       "gtOrderNo": "1260915165507443",
       "brand": "尚为",
@@ -216,26 +168,6 @@
       "exportedAt": "2026-10-09T10:02:39+08:00"
     },
     {
-      "jdOrderNo": "351260889890",
-      "gtOrderNo": "1260915172407952",
-      "brand": "史丹利",
-      "recipient": "汪红城",
-      "batch": "2026-09-28/13-00",
-      "pdf": "pdfs/2026-09-28/13-00/351260889890.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-28T15:15:09+08:00"
-    },
-    {
-      "jdOrderNo": "351236772473",
-      "gtOrderNo": "1260915170407637",
-      "brand": "博世",
-      "recipient": "汪红城",
-      "batch": "2026-09-28/09-30",
-      "pdf": "pdfs/2026-09-28/09-30/351236772473.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-28T09:15:35+08:00"
-    },
-    {
       "jdOrderNo": "351494691561",
       "gtOrderNo": "1260916134504045",
       "brand": "尚为",
@@ -244,16 +176,6 @@
       "pdf": "pdfs/2026-10-09/09-30/351494691561.pdf",
       "pageCount": 1,
       "exportedAt": "2026-10-09T10:02:39+08:00"
-    },
-    {
-      "jdOrderNo": "351480887243",
-      "gtOrderNo": "1260916133804004",
-      "brand": "妙森汰",
-      "recipient": "王静蓉",
-      "batch": "2026-09-28/09-30",
-      "pdf": "pdfs/2026-09-28/09-30/351480887243.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-28T09:15:35+08:00"
     },
     {
       "jdOrderNo": "351475839030",
