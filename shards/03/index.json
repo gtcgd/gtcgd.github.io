@@ -1,18 +1,18 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-14T11:03:16+08:00",
+  "generatedAt": "2026-10-15T09:43:48+08:00",
   "totals": {
-    "orders": 18,
-    "orders_before_dedupe": 16417,
-    "fresh_from_scan": 2921,
+    "orders": 14,
+    "orders_before_dedupe": 16394,
+    "fresh_from_scan": 2928,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 8,
-    "brands": 242
+    "batches": 6,
+    "brands": 241
   },
   "batches": [
     {
-      "id": "2026-10-14/09-30",
+      "id": "2026-10-15/09-30",
       "count": 1
     },
     {
@@ -33,14 +33,6 @@
     },
     {
       "id": "2026-09-30/09-30",
-      "count": 1
-    },
-    {
-      "id": "2026-09-29/13-00",
-      "count": 3
-    },
-    {
-      "id": "2026-09-29/09-30",
       "count": 1
     }
   ],
@@ -106,16 +98,6 @@
       "exportedAt": "2026-10-09T10:02:39+08:00"
     },
     {
-      "jdOrderNo": "351205809905",
-      "gtOrderNo": "1260917170207391",
-      "brand": "尚为",
-      "recipient": "赵智（⻩陵南桥隧⻋间）",
-      "batch": "2026-09-29/13-00",
-      "pdf": "pdfs/2026-09-29/13-00/351205809905.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-29T15:41:48+08:00"
-    },
-    {
       "jdOrderNo": "351280287459",
       "gtOrderNo": "1260918101602222",
       "brand": "海洋王",
@@ -140,30 +122,10 @@
       "gtOrderNo": "1260918104202724",
       "brand": "⼒特隆",
       "recipient": "⻢辉",
-      "batch": "2026-10-14/09-30",
-      "pdf": "pdfs/2026-10-14/09-30/351506831018.pdf",
+      "batch": "2026-10-15/09-30",
+      "pdf": "pdfs/2026-10-15/09-30/351506831018.pdf",
       "pageCount": 1,
-      "exportedAt": "2026-10-14T11:03:15+08:00"
-    },
-    {
-      "jdOrderNo": "351214051921",
-      "gtOrderNo": "1260918122004230",
-      "brand": "波斯",
-      "recipient": "王海洋",
-      "batch": "2026-09-29/09-30",
-      "pdf": "pdfs/2026-09-29/09-30/351214051921.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-29T11:22:54+08:00"
-    },
-    {
-      "jdOrderNo": "351034158638",
-      "gtOrderNo": "1260918154406406",
-      "brand": "尚为",
-      "recipient": "王凤",
-      "batch": "2026-09-29/13-00",
-      "pdf": "pdfs/2026-09-29/13-00/351034158638.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-29T15:41:48+08:00"
+      "exportedAt": "2026-10-15T09:43:45+08:00"
     },
     {
       "jdOrderNo": "351295256032",
@@ -184,16 +146,6 @@
       "pdf": "pdfs/2026-10-09/09-30/351271674201.pdf",
       "pageCount": 1,
       "exportedAt": "2026-10-09T10:02:39+08:00"
-    },
-    {
-      "jdOrderNo": "351510270666",
-      "gtOrderNo": "1260918195509398",
-      "brand": "豹牌",
-      "recipient": "李⽟平",
-      "batch": "2026-09-29/13-00",
-      "pdf": "pdfs/2026-09-29/13-00/351510270666.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-29T15:41:48+08:00"
     },
     {
       "jdOrderNo": "351285374330",
