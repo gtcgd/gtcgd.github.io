@@ -1,18 +1,18 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-15T09:43:48+08:00",
+  "generatedAt": "2026-10-16T10:34:30+08:00",
   "totals": {
-    "orders": 10,
-    "orders_before_dedupe": 16394,
-    "fresh_from_scan": 2928,
+    "orders": 9,
+    "orders_before_dedupe": 17206,
+    "fresh_from_scan": 2877,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 4,
-    "brands": 241
+    "batches": 3,
+    "brands": 242
   },
   "batches": [
     {
-      "id": "2026-10-15/09-30",
+      "id": "2026-10-16/09-30",
       "count": 1
     },
     {
@@ -22,10 +22,6 @@
     {
       "id": "2026-10-08/13-00",
       "count": 3
-    },
-    {
-      "id": "2026-09-30/18-00",
-      "count": 1
     }
   ],
   "orders": [
@@ -114,20 +110,10 @@
       "gtOrderNo": "1260814153206147",
       "brand": "海尔",
       "recipient": "张鑫宇",
-      "batch": "2026-10-15/09-30",
-      "pdf": "pdfs/2026-10-15/09-30/331803493658.pdf",
+      "batch": "2026-10-16/09-30",
+      "pdf": "pdfs/2026-10-16/09-30/331803493658.pdf",
       "pageCount": 1,
-      "exportedAt": "2026-10-15T09:43:45+08:00"
-    },
-    {
-      "jdOrderNo": "331795747793",
-      "gtOrderNo": "1260908163908927",
-      "brand": "尚为",
-      "recipient": "赵泽明",
-      "batch": "2026-09-30/18-00",
-      "pdf": "pdfs/2026-09-30/18-00/331795747793.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-30T19:34:21+08:00"
+      "exportedAt": "2026-10-16T10:34:30+08:00"
     }
   ]
 }

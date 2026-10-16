@@ -1,14 +1,14 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-15T09:43:48+08:00",
+  "generatedAt": "2026-10-16T10:34:30+08:00",
   "totals": {
-    "orders": 13,
-    "orders_before_dedupe": 16394,
-    "fresh_from_scan": 2928,
+    "orders": 12,
+    "orders_before_dedupe": 17206,
+    "fresh_from_scan": 2877,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 4,
-    "brands": 241
+    "batches": 3,
+    "brands": 242
   },
   "batches": [
     {
@@ -22,10 +22,6 @@
     {
       "id": "2026-10-08/09-30",
       "count": 4
-    },
-    {
-      "id": "2026-09-30/18-00",
-      "count": 1
     }
   ],
   "orders": [
@@ -98,16 +94,6 @@
       "pdf": "pdfs/2026-10-09/09-30/351360986205.pdf",
       "pageCount": 1,
       "exportedAt": "2026-10-09T10:02:39+08:00"
-    },
-    {
-      "jdOrderNo": "351259280418",
-      "gtOrderNo": "1260915145605031",
-      "brand": "得⼒",
-      "recipient": "汪红城",
-      "batch": "2026-09-30/18-00",
-      "pdf": "pdfs/2026-09-30/18-00/351259280418.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-30T19:34:21+08:00"
     },
     {
       "jdOrderNo": "351181575921",

@@ -1,18 +1,18 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-15T09:43:48+08:00",
+  "generatedAt": "2026-10-16T10:34:30+08:00",
   "totals": {
-    "orders": 14,
-    "orders_before_dedupe": 16394,
-    "fresh_from_scan": 2928,
+    "orders": 12,
+    "orders_before_dedupe": 17206,
+    "fresh_from_scan": 2877,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 6,
-    "brands": 241
+    "batches": 4,
+    "brands": 242
   },
   "batches": [
     {
-      "id": "2026-10-15/09-30",
+      "id": "2026-10-15/18-00",
       "count": 1
     },
     {
@@ -26,27 +26,9 @@
     {
       "id": "2026-10-08/09-30",
       "count": 1
-    },
-    {
-      "id": "2026-09-30/13-00",
-      "count": 1
-    },
-    {
-      "id": "2026-09-30/09-30",
-      "count": 1
     }
   ],
   "orders": [
-    {
-      "jdOrderNo": "351270905314",
-      "gtOrderNo": "1260916154305928",
-      "brand": "海洋王",
-      "recipient": "王锦程",
-      "batch": "2026-09-30/13-00",
-      "pdf": "pdfs/2026-09-30/13-00/351270905314.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-30T14:14:34+08:00"
-    },
     {
       "jdOrderNo": "351264346179",
       "gtOrderNo": "1260916160306331",
@@ -122,20 +104,10 @@
       "gtOrderNo": "1260918104202724",
       "brand": "⼒特隆",
       "recipient": "⻢辉",
-      "batch": "2026-10-15/09-30",
-      "pdf": "pdfs/2026-10-15/09-30/351506831018.pdf",
+      "batch": "2026-10-15/18-00",
+      "pdf": "pdfs/2026-10-15/18-00/351506831018.pdf",
       "pageCount": 1,
-      "exportedAt": "2026-10-15T09:43:45+08:00"
-    },
-    {
-      "jdOrderNo": "351295256032",
-      "gtOrderNo": "1260918155306519",
-      "brand": "晶智触显",
-      "recipient": "⽯姣璐梓",
-      "batch": "2026-09-30/09-30",
-      "pdf": "pdfs/2026-09-30/09-30/351295256032.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-09-30T09:54:10+08:00"
+      "exportedAt": "2026-10-15T19:32:05+08:00"
     },
     {
       "jdOrderNo": "351271674201",
