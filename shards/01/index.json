@@ -1,119 +1,31 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-16T10:34:30+08:00",
+  "generatedAt": "2026-10-21T14:33:57+08:00",
   "totals": {
-    "orders": 9,
-    "orders_before_dedupe": 17206,
-    "fresh_from_scan": 2877,
+    "orders": 1,
+    "orders_before_dedupe": 5755,
+    "fresh_from_scan": 1137,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 3,
-    "brands": 242
+    "batches": 1,
+    "brands": 198
   },
   "batches": [
     {
-      "id": "2026-10-16/09-30",
+      "id": "2026-10-21/13-00",
       "count": 1
-    },
-    {
-      "id": "2026-10-09/09-30",
-      "count": 5
-    },
-    {
-      "id": "2026-10-08/13-00",
-      "count": 3
     }
   ],
   "orders": [
-    {
-      "jdOrderNo": "351498458501",
-      "gtOrderNo": "1260910181108488",
-      "brand": "尚为",
-      "recipient": "⾼亚洲",
-      "batch": "2026-10-09/09-30",
-      "pdf": "pdfs/2026-10-09/09-30/351498458501.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-10-09T10:02:39+08:00"
-    },
-    {
-      "jdOrderNo": "351438050026",
-      "gtOrderNo": "1260911140004793",
-      "brand": "尚为",
-      "recipient": "王岩",
-      "batch": "2026-10-09/09-30",
-      "pdf": "pdfs/2026-10-09/09-30/351438050026.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-10-09T10:02:39+08:00"
-    },
-    {
-      "jdOrderNo": "351223966115",
-      "gtOrderNo": "1260912142200868",
-      "brand": "尚为",
-      "recipient": "张志强",
-      "batch": "2026-10-09/09-30",
-      "pdf": "pdfs/2026-10-09/09-30/351223966115.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-10-09T10:02:39+08:00"
-    },
-    {
-      "jdOrderNo": "350990686252",
-      "gtOrderNo": "1260913141000688",
-      "brand": "海洋王",
-      "recipient": "王彦臻",
-      "batch": "2026-10-08/13-00",
-      "pdf": "pdfs/2026-10-08/13-00/350990686252.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-10-08T13:14:30+08:00"
-    },
-    {
-      "jdOrderNo": "350712722984",
-      "gtOrderNo": "1260903110203068",
-      "brand": "尚为",
-      "recipient": "陈宏",
-      "batch": "2026-10-09/09-30",
-      "pdf": "pdfs/2026-10-09/09-30/350712722984.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-10-09T10:02:39+08:00"
-    },
-    {
-      "jdOrderNo": "339062304190",
-      "gtOrderNo": "1260911151906122",
-      "brand": "尚为",
-      "recipient": "张俊",
-      "batch": "2026-10-08/13-00",
-      "pdf": "pdfs/2026-10-08/13-00/339062304190.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-10-08T13:14:30+08:00"
-    },
-    {
-      "jdOrderNo": "332420304798",
-      "gtOrderNo": "1260910164107016",
-      "brand": "尚为",
-      "recipient": "程东",
-      "batch": "2026-10-09/09-30",
-      "pdf": "pdfs/2026-10-09/09-30/332420304798.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-10-09T10:02:39+08:00"
-    },
-    {
-      "jdOrderNo": "332152075220",
-      "gtOrderNo": "1260824165107276",
-      "brand": "尚为",
-      "recipient": "李宏伟",
-      "batch": "2026-10-08/13-00",
-      "pdf": "pdfs/2026-10-08/13-00/332152075220.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-10-08T13:14:30+08:00"
-    },
     {
       "jdOrderNo": "331803493658",
       "gtOrderNo": "1260814153206147",
       "brand": "海尔",
       "recipient": "张鑫宇",
-      "batch": "2026-10-16/09-30",
-      "pdf": "pdfs/2026-10-16/09-30/331803493658.pdf",
+      "batch": "2026-10-21/13-00",
+      "pdf": "pdfs/2026-10-21/13-00/331803493658.pdf",
       "pageCount": 1,
-      "exportedAt": "2026-10-16T10:34:30+08:00"
+      "exportedAt": "2026-10-21T14:14:13+08:00"
     }
   ]
 }
