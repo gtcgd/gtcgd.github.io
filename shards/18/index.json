@@ -1,0 +1,111 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-10-29T15:57:39+08:00",
+  "totals": {
+    "orders": 9,
+    "orders_before_dedupe": 20031,
+    "fresh_from_scan": 3057,
+    "retained_from_old_index": 0,
+    "dropped_missing_pdf": 0,
+    "batches": 1,
+    "brands": 267
+  },
+  "batches": [
+    {
+      "id": "2026-10-29/13-00",
+      "count": 9
+    }
+  ],
+  "orders": [
+    {
+      "jdOrderNo": "351742527555",
+      "gtOrderNo": "1261029132504971",
+      "brand": "和⼀可塑",
+      "recipient": "汪红城",
+      "batch": "2026-10-29/13-00",
+      "pdf": "pdfs/2026-10-29/13-00/351742527555.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-10-29T15:57:37+08:00"
+    },
+    {
+      "jdOrderNo": "351501636812",
+      "gtOrderNo": "1261029153607386",
+      "brand": "得⼒",
+      "recipient": "李忠春",
+      "batch": "2026-10-29/13-00",
+      "pdf": "pdfs/2026-10-29/13-00/351501636812.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-10-29T15:57:37+08:00"
+    },
+    {
+      "jdOrderNo": "351501542284",
+      "gtOrderNo": "1261029153007257",
+      "brand": "海尔",
+      "recipient": "王晓敏",
+      "batch": "2026-10-29/13-00",
+      "pdf": "pdfs/2026-10-29/13-00/351501542284.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-10-29T15:57:37+08:00"
+    },
+    {
+      "jdOrderNo": "351501430381",
+      "gtOrderNo": "1261029151006749",
+      "brand": "清⻛",
+      "recipient": "赵亚桐",
+      "batch": "2026-10-29/13-00",
+      "pdf": "pdfs/2026-10-29/13-00/351501430381.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-10-29T15:57:37+08:00"
+    },
+    {
+      "jdOrderNo": "351500991021",
+      "gtOrderNo": "1261029144406012",
+      "brand": "⼀迪",
+      "recipient": "陶吉元",
+      "batch": "2026-10-29/13-00",
+      "pdf": "pdfs/2026-10-29/13-00/351500991021.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-10-29T15:57:37+08:00"
+    },
+    {
+      "jdOrderNo": "351500964268",
+      "gtOrderNo": "1261029144606059",
+      "brand": "公⽜",
+      "recipient": "彭⼭川",
+      "batch": "2026-10-29/13-00",
+      "pdf": "pdfs/2026-10-29/13-00/351500964268.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-10-29T15:57:37+08:00"
+    },
+    {
+      "jdOrderNo": "351500930540",
+      "gtOrderNo": "1261029144105911",
+      "brand": "得印",
+      "recipient": "罗洪亚",
+      "batch": "2026-10-29/13-00",
+      "pdf": "pdfs/2026-10-29/13-00/351500930540.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-10-29T15:57:37+08:00"
+    },
+    {
+      "jdOrderNo": "351493630830",
+      "gtOrderNo": "1261029145406264",
+      "brand": "鑫铭益",
+      "recipient": "汪天宜",
+      "batch": "2026-10-29/13-00",
+      "pdf": "pdfs/2026-10-29/13-00/351493630830.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-10-29T15:57:37+08:00"
+    },
+    {
+      "jdOrderNo": "351492602958",
+      "gtOrderNo": "1261029132904997",
+      "brand": "和⼀可塑",
+      "recipient": "汪红城",
+      "batch": "2026-10-29/13-00",
+      "pdf": "pdfs/2026-10-29/13-00/351492602958.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-10-29T15:57:37+08:00"
+    }
+  ]
+}
