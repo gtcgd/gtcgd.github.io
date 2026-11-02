@@ -1,18 +1,18 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-21T14:33:57+08:00",
+  "generatedAt": "2026-11-02T14:05:17+08:00",
   "totals": {
     "orders": 1,
-    "orders_before_dedupe": 5755,
-    "fresh_from_scan": 1137,
+    "orders_before_dedupe": 1359,
+    "fresh_from_scan": 778,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
     "batches": 1,
-    "brands": 198
+    "brands": 164
   },
   "batches": [
     {
-      "id": "2026-10-21/13-00",
+      "id": "2026-11-02/09-30",
       "count": 1
     }
   ],
@@ -22,10 +22,10 @@
       "gtOrderNo": "1260929094101413",
       "brand": "⼈⼈印",
       "recipient": "吴学忠",
-      "batch": "2026-10-21/13-00",
-      "pdf": "pdfs/2026-10-21/13-00/351630610965.pdf",
+      "batch": "2026-11-02/09-30",
+      "pdf": "pdfs/2026-11-02/09-30/351630610965.pdf",
       "pageCount": 1,
-      "exportedAt": "2026-10-21T14:14:13+08:00"
+      "exportedAt": "2026-11-02T09:34:02+08:00"
     }
   ]
 }
