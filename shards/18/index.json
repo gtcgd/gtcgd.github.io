@@ -1,19 +1,19 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-02T09:34:04+08:00",
+  "generatedAt": "2026-11-02T12:58:12+08:00",
   "totals": {
-    "orders": 513,
-    "orders_before_dedupe": 23907,
-    "fresh_from_scan": 3561,
+    "orders": 517,
+    "orders_before_dedupe": 24588,
+    "fresh_from_scan": 3661,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
     "batches": 4,
-    "brands": 277
+    "brands": 278
   },
   "batches": [
     {
       "id": "2026-11-02/09-30",
-      "count": 338
+      "count": 342
     },
     {
       "id": "2026-10-30/13-00",
@@ -5158,6 +5158,46 @@
       "pdf": "pdfs/2026-11-02/09-30/351502579887.pdf",
       "pageCount": 1,
       "exportedAt": "2026-11-02T09:34:02+08:00"
+    },
+    {
+      "jdOrderNo": "352111413269",
+      "gtOrderNo": "1261102123005543",
+      "brand": "世达",
+      "recipient": "吴群",
+      "batch": "2026-11-02/09-30",
+      "pdf": "pdfs/2026-11-02/09-30/352111413269.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-02T12:58:10+08:00"
+    },
+    {
+      "jdOrderNo": "352110097173",
+      "gtOrderNo": "1261102112604900",
+      "brand": "双⿅",
+      "recipient": "李波",
+      "batch": "2026-11-02/09-30",
+      "pdf": "pdfs/2026-11-02/09-30/352110097173.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-02T12:58:10+08:00"
+    },
+    {
+      "jdOrderNo": "352109818549",
+      "gtOrderNo": "1261102111304596",
+      "brand": "海尔",
+      "recipient": "施帅鹏",
+      "batch": "2026-11-02/09-30",
+      "pdf": "pdfs/2026-11-02/09-30/352109818549.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-02T12:58:10+08:00"
+    },
+    {
+      "jdOrderNo": "352109756820",
+      "gtOrderNo": "1261102093201719",
+      "brand": "百锐",
+      "recipient": "潘⻰（四平）",
+      "batch": "2026-11-02/09-30",
+      "pdf": "pdfs/2026-11-02/09-30/352109756820.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-02T12:58:10+08:00"
     }
   ]
 }
