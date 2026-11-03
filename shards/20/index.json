@@ -1,0 +1,91 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-11-03T13:47:26+08:00",
+  "totals": {
+    "orders": 7,
+    "orders_before_dedupe": 5045,
+    "fresh_from_scan": 1201,
+    "retained_from_old_index": 0,
+    "dropped_missing_pdf": 0,
+    "batches": 1,
+    "brands": 192
+  },
+  "batches": [
+    {
+      "id": "2026-11-03/13-00",
+      "count": 7
+    }
+  ],
+  "orders": [
+    {
+      "jdOrderNo": "351572584492",
+      "gtOrderNo": "1261103110104617",
+      "brand": "",
+      "recipient": "岳宗林",
+      "batch": "2026-11-03/13-00",
+      "pdf": "pdfs/2026-11-03/13-00/351572584492.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-03T13:47:25+08:00"
+    },
+    {
+      "jdOrderNo": "351572312525",
+      "gtOrderNo": "1261103103103549",
+      "brand": "爱迪普森",
+      "recipient": "骆斌",
+      "batch": "2026-11-03/13-00",
+      "pdf": "pdfs/2026-11-03/13-00/351572312525.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-03T13:47:25+08:00"
+    },
+    {
+      "jdOrderNo": "351565049486",
+      "gtOrderNo": "1261103105604471",
+      "brand": "亿⼒",
+      "recipient": "陈瑶菊",
+      "batch": "2026-11-03/13-00",
+      "pdf": "pdfs/2026-11-03/13-00/351565049486.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-03T13:47:25+08:00"
+    },
+    {
+      "jdOrderNo": "351560145359",
+      "gtOrderNo": "1261103120405890",
+      "brand": "惠普",
+      "recipient": "伍明",
+      "batch": "2026-11-03/13-00",
+      "pdf": "pdfs/2026-11-03/13-00/351560145359.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-03T13:47:25+08:00"
+    },
+    {
+      "jdOrderNo": "351559184655",
+      "gtOrderNo": "1261103110604758",
+      "brand": "鑫铭铁",
+      "recipient": "龚明新",
+      "batch": "2026-11-03/13-00",
+      "pdf": "pdfs/2026-11-03/13-00/351559184655.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-03T13:47:25+08:00"
+    },
+    {
+      "jdOrderNo": "351559102703",
+      "gtOrderNo": "1261103110104630",
+      "brand": "尚为",
+      "recipient": "王明模",
+      "batch": "2026-11-03/13-00",
+      "pdf": "pdfs/2026-11-03/13-00/351559102703.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-03T13:47:25+08:00"
+    },
+    {
+      "jdOrderNo": "351558783439",
+      "gtOrderNo": "1261103104203889",
+      "brand": "海尔",
+      "recipient": "李基伟",
+      "batch": "2026-11-03/13-00",
+      "pdf": "pdfs/2026-11-03/13-00/351558783439.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-03T13:47:25+08:00"
+    }
+  ]
+}
