@@ -1,16 +1,20 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-10T22:01:32+08:00",
+  "generatedAt": "2026-11-11T15:15:17+08:00",
   "totals": {
-    "orders": 89,
-    "orders_before_dedupe": 22742,
-    "fresh_from_scan": 3300,
+    "orders": 90,
+    "orders_before_dedupe": 22747,
+    "fresh_from_scan": 3301,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 1,
+    "batches": 2,
     "brands": 277
   },
   "batches": [
+    {
+      "id": "2026-11-11/13-00",
+      "count": 1
+    },
     {
       "id": "2026-11-10/18-00",
       "count": 89
@@ -906,6 +910,16 @@
       "pdf": "pdfs/2026-11-10/18-00/351661516815.pdf",
       "pageCount": 1,
       "exportedAt": "2026-11-10T20:12:54+08:00"
+    },
+    {
+      "jdOrderNo": "351909736033",
+      "gtOrderNo": "1261106155507949",
+      "brand": "惠普",
+      "recipient": "王亚东",
+      "batch": "2026-11-11/13-00",
+      "pdf": "pdfs/2026-11-11/13-00/351909736033.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-11T15:15:16+08:00"
     }
   ]
 }
