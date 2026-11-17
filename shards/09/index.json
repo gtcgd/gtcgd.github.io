@@ -1,61 +1,31 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-02T14:05:17+08:00",
+  "generatedAt": "2026-11-17T15:07:55+08:00",
   "totals": {
-    "orders": 4,
-    "orders_before_dedupe": 1359,
-    "fresh_from_scan": 778,
+    "orders": 1,
+    "orders_before_dedupe": 3664,
+    "fresh_from_scan": 1099,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
     "batches": 1,
-    "brands": 164
+    "brands": 202
   },
   "batches": [
     {
-      "id": "2026-11-02/09-30",
-      "count": 4
+      "id": "2026-11-17/13-00",
+      "count": 1
     }
   ],
   "orders": [
-    {
-      "jdOrderNo": "351484178512",
-      "gtOrderNo": "1261009203613012",
-      "brand": "⼼相印",
-      "recipient": "⾦栋梁",
-      "batch": "2026-11-02/09-30",
-      "pdf": "pdfs/2026-11-02/09-30/351484178512.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-02T09:34:02+08:00"
-    },
-    {
-      "jdOrderNo": "351264774158",
-      "gtOrderNo": "1261010100502833",
-      "brand": "",
-      "recipient": "⼴南所杨超",
-      "batch": "2026-11-02/09-30",
-      "pdf": "pdfs/2026-11-02/09-30/351264774158.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-02T09:34:02+08:00"
-    },
     {
       "jdOrderNo": "351799567878",
       "gtOrderNo": "1261010144307596",
       "brand": "",
       "recipient": "⽜德昕",
-      "batch": "2026-11-02/09-30",
-      "pdf": "pdfs/2026-11-02/09-30/351799567878.pdf",
+      "batch": "2026-11-17/13-00",
+      "pdf": "pdfs/2026-11-17/13-00/351799567878.pdf",
       "pageCount": 1,
-      "exportedAt": "2026-11-02T09:34:02+08:00"
-    },
-    {
-      "jdOrderNo": "351672189277",
-      "gtOrderNo": "1261010151708733",
-      "brand": "鲁堡",
-      "recipient": "易先挥",
-      "batch": "2026-11-02/09-30",
-      "pdf": "pdfs/2026-11-02/09-30/351672189277.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-02T09:34:02+08:00"
+      "exportedAt": "2026-11-17T15:07:55+08:00"
     }
   ]
 }

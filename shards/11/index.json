@@ -1,31 +1,15 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-02T14:05:17+08:00",
+  "generatedAt": "2026-11-17T15:07:55+08:00",
   "totals": {
-    "orders": 1,
-    "orders_before_dedupe": 1359,
-    "fresh_from_scan": 778,
+    "orders": 0,
+    "orders_before_dedupe": 3664,
+    "fresh_from_scan": 1099,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 1,
-    "brands": 164
+    "batches": 0,
+    "brands": 202
   },
-  "batches": [
-    {
-      "id": "2026-11-02/09-30",
-      "count": 1
-    }
-  ],
-  "orders": [
-    {
-      "jdOrderNo": "351313654637",
-      "gtOrderNo": "1261014092301273",
-      "brand": "海康威视",
-      "recipient": "蒋海⼴",
-      "batch": "2026-11-02/09-30",
-      "pdf": "pdfs/2026-11-02/09-30/351313654637.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-02T09:34:02+08:00"
-    }
-  ]
+  "batches": [],
+  "orders": []
 }

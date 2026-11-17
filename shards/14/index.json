@@ -1,81 +1,15 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-02T14:05:17+08:00",
+  "generatedAt": "2026-11-17T15:07:55+08:00",
   "totals": {
-    "orders": 6,
-    "orders_before_dedupe": 1359,
-    "fresh_from_scan": 778,
+    "orders": 0,
+    "orders_before_dedupe": 3664,
+    "fresh_from_scan": 1099,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 1,
-    "brands": 164
+    "batches": 0,
+    "brands": 202
   },
-  "batches": [
-    {
-      "id": "2026-11-02/09-30",
-      "count": 6
-    }
-  ],
-  "orders": [
-    {
-      "jdOrderNo": "351938804036",
-      "gtOrderNo": "1261021104503017",
-      "brand": "希沃",
-      "recipient": "张瀚尹",
-      "batch": "2026-11-02/09-30",
-      "pdf": "pdfs/2026-11-02/09-30/351938804036.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-02T09:34:02+08:00"
-    },
-    {
-      "jdOrderNo": "351859323147",
-      "gtOrderNo": "1261021122104547",
-      "brand": "正泰",
-      "recipient": "⻢王益",
-      "batch": "2026-11-02/09-30",
-      "pdf": "pdfs/2026-11-02/09-30/351859323147.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-02T09:34:02+08:00"
-    },
-    {
-      "jdOrderNo": "351413396716",
-      "gtOrderNo": "1261022084600395",
-      "brand": "伍尔特",
-      "recipient": "魏⼩棉",
-      "batch": "2026-11-02/09-30",
-      "pdf": "pdfs/2026-11-02/09-30/351413396716.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-02T09:34:02+08:00"
-    },
-    {
-      "jdOrderNo": "351939275942",
-      "gtOrderNo": "1261022095501820",
-      "brand": "",
-      "recipient": "仲叶华",
-      "batch": "2026-11-02/09-30",
-      "pdf": "pdfs/2026-11-02/09-30/351939275942.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-02T09:34:02+08:00"
-    },
-    {
-      "jdOrderNo": "351659233264",
-      "gtOrderNo": "1261022092000997",
-      "brand": "佰吉能",
-      "recipient": "⾼猛",
-      "batch": "2026-11-02/09-30",
-      "pdf": "pdfs/2026-11-02/09-30/351659233264.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-02T09:34:02+08:00"
-    },
-    {
-      "jdOrderNo": "351840307614",
-      "gtOrderNo": "1261022153606774",
-      "brand": "纽曼",
-      "recipient": "吴旭",
-      "batch": "2026-11-02/09-30",
-      "pdf": "pdfs/2026-11-02/09-30/351840307614.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-02T09:34:02+08:00"
-    }
-  ]
+  "batches": [],
+  "orders": []
 }
