@@ -1,0 +1,121 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-11-18T18:02:07+08:00",
+  "totals": {
+    "orders": 10,
+    "orders_before_dedupe": 6677,
+    "fresh_from_scan": 1550,
+    "retained_from_old_index": 0,
+    "dropped_missing_pdf": 0,
+    "batches": 1,
+    "brands": 224
+  },
+  "batches": [
+    {
+      "id": "2026-11-18/13-00",
+      "count": 10
+    }
+  ],
+  "orders": [
+    {
+      "jdOrderNo": "352015186499",
+      "gtOrderNo": "1261118161108138",
+      "brand": "清靓",
+      "recipient": "曹胜军",
+      "batch": "2026-11-18/13-00",
+      "pdf": "pdfs/2026-11-18/13-00/352015186499.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-18T18:02:06+08:00"
+    },
+    {
+      "jdOrderNo": "351773216076",
+      "gtOrderNo": "1261118165909316",
+      "brand": "简⼯智能",
+      "recipient": "王超",
+      "batch": "2026-11-18/13-00",
+      "pdf": "pdfs/2026-11-18/13-00/351773216076.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-18T18:02:06+08:00"
+    },
+    {
+      "jdOrderNo": "351773215212",
+      "gtOrderNo": "1261118165909304",
+      "brand": "⾼壹⼯机",
+      "recipient": "晋中",
+      "batch": "2026-11-18/13-00",
+      "pdf": "pdfs/2026-11-18/13-00/351773215212.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-18T18:02:06+08:00"
+    },
+    {
+      "jdOrderNo": "351773215180",
+      "gtOrderNo": "1261118165909309",
+      "brand": "⾼壹⼯机",
+      "recipient": "⼤同",
+      "batch": "2026-11-18/13-00",
+      "pdf": "pdfs/2026-11-18/13-00/351773215180.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-18T18:02:06+08:00"
+    },
+    {
+      "jdOrderNo": "351773179532",
+      "gtOrderNo": "1261118165909322",
+      "brand": "简⼯智能",
+      "recipient": "曾俊淇",
+      "batch": "2026-11-18/13-00",
+      "pdf": "pdfs/2026-11-18/13-00/351773179532.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-18T18:02:06+08:00"
+    },
+    {
+      "jdOrderNo": "351773122989",
+      "gtOrderNo": "1261118164008945",
+      "brand": "绿联",
+      "recipient": "熊宁红",
+      "batch": "2026-11-18/13-00",
+      "pdf": "pdfs/2026-11-18/13-00/351773122989.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-18T18:02:06+08:00"
+    },
+    {
+      "jdOrderNo": "351765825102",
+      "gtOrderNo": "1261118165909305",
+      "brand": "⾼壹⼯机",
+      "recipient": "张来成",
+      "batch": "2026-11-18/13-00",
+      "pdf": "pdfs/2026-11-18/13-00/351765825102.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-18T18:02:06+08:00"
+    },
+    {
+      "jdOrderNo": "351765556974",
+      "gtOrderNo": "1261118163908928",
+      "brand": "欧伦泰",
+      "recipient": "4号仓库收",
+      "batch": "2026-11-18/13-00",
+      "pdf": "pdfs/2026-11-18/13-00/351765556974.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-18T18:02:06+08:00"
+    },
+    {
+      "jdOrderNo": "351765009198",
+      "gtOrderNo": "1261118153707336",
+      "brand": "起帆",
+      "recipient": "颜⽂伟",
+      "batch": "2026-11-18/13-00",
+      "pdf": "pdfs/2026-11-18/13-00/351765009198.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-18T18:02:06+08:00"
+    },
+    {
+      "jdOrderNo": "351758863951",
+      "gtOrderNo": "1261118153007171",
+      "brand": "简⼯智能",
+      "recipient": "李俊坤",
+      "batch": "2026-11-18/13-00",
+      "pdf": "pdfs/2026-11-18/13-00/351758863951.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-18T18:02:06+08:00"
+    }
+  ]
+}
