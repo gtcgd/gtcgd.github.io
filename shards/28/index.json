@@ -1,16 +1,20 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-18T18:02:07+08:00",
+  "generatedAt": "2026-11-19T09:42:41+08:00",
   "totals": {
-    "orders": 10,
-    "orders_before_dedupe": 6677,
-    "fresh_from_scan": 1550,
+    "orders": 11,
+    "orders_before_dedupe": 6681,
+    "fresh_from_scan": 1551,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 1,
+    "batches": 2,
     "brands": 224
   },
   "batches": [
+    {
+      "id": "2026-11-19/09-30",
+      "count": 1
+    },
     {
       "id": "2026-11-18/13-00",
       "count": 10
@@ -116,6 +120,16 @@
       "pdf": "pdfs/2026-11-18/13-00/351758863951.pdf",
       "pageCount": 1,
       "exportedAt": "2026-11-18T18:02:06+08:00"
+    },
+    {
+      "jdOrderNo": "351776364365",
+      "gtOrderNo": "1261118220911476",
+      "brand": "⾼壹⼯机",
+      "recipient": "⻢存明",
+      "batch": "2026-11-19/09-30",
+      "pdf": "pdfs/2026-11-19/09-30/351776364365.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-19T09:42:41+08:00"
     }
   ]
 }
