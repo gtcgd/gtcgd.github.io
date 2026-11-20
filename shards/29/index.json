@@ -1,0 +1,151 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-11-20T14:58:45+08:00",
+  "totals": {
+    "orders": 13,
+    "orders_before_dedupe": 11519,
+    "fresh_from_scan": 2071,
+    "retained_from_old_index": 0,
+    "dropped_missing_pdf": 0,
+    "batches": 1,
+    "brands": 240
+  },
+  "batches": [
+    {
+      "id": "2026-11-20/13-00",
+      "count": 13
+    }
+  ],
+  "orders": [
+    {
+      "jdOrderNo": "352134654587",
+      "gtOrderNo": "1261120144006163",
+      "brand": "亿⼒",
+      "recipient": "崔旭",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/352134654587.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    },
+    {
+      "jdOrderNo": "352092355888",
+      "gtOrderNo": "1261120143406031",
+      "brand": "清华同⽅",
+      "recipient": "王美苏",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/352092355888.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    },
+    {
+      "jdOrderNo": "352087977778",
+      "gtOrderNo": "1261120144306253",
+      "brand": "海尔",
+      "recipient": "罗茂钦",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/352087977778.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    },
+    {
+      "jdOrderNo": "352087869171",
+      "gtOrderNo": "1261120141405773",
+      "brand": "美沃奇冲击扳⼿",
+      "recipient": "周骏",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/352087869171.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    },
+    {
+      "jdOrderNo": "352087527955",
+      "gtOrderNo": "1261120133905249",
+      "brand": "欧伦泰",
+      "recipient": "喻袁兵（虹桥电⼒⼯区）",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/352087527955.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    },
+    {
+      "jdOrderNo": "352087455282",
+      "gtOrderNo": "1261120135005448",
+      "brand": "",
+      "recipient": "董雪峰",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/352087455282.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    },
+    {
+      "jdOrderNo": "352087200946",
+      "gtOrderNo": "1261120132605158",
+      "brand": "伍尔特",
+      "recipient": "沈春燕",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/352087200946.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    },
+    {
+      "jdOrderNo": "352048008001",
+      "gtOrderNo": "1261120143906148",
+      "brand": "美沃奇",
+      "recipient": "秦海宁",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/352048008001.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    },
+    {
+      "jdOrderNo": "352047642049",
+      "gtOrderNo": "1261120135805541",
+      "brand": "海能达",
+      "recipient": "⾦哲⻰",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/352047642049.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    },
+    {
+      "jdOrderNo": "352047389601",
+      "gtOrderNo": "1261120132905171",
+      "brand": "光⼤特照",
+      "recipient": "赵晓冬",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/352047389601.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    },
+    {
+      "jdOrderNo": "352041280322",
+      "gtOrderNo": "1261120143406066",
+      "brand": "得⼒",
+      "recipient": "张爱平",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/352041280322.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    },
+    {
+      "jdOrderNo": "351792318093",
+      "gtOrderNo": "1261120144306254",
+      "brand": "海尔",
+      "recipient": "叶昆（张杨⼯会）",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/351792318093.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    },
+    {
+      "jdOrderNo": "351784319598",
+      "gtOrderNo": "1261120140305622",
+      "brand": "红旗",
+      "recipient": "徐德健",
+      "batch": "2026-11-20/13-00",
+      "pdf": "pdfs/2026-11-20/13-00/351784319598.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-20T14:58:43+08:00"
+    }
+  ]
+}
