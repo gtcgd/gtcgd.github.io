@@ -1,41 +1,31 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-17T15:07:55+08:00",
+  "generatedAt": "2026-11-21T10:57:49+08:00",
   "totals": {
-    "orders": 2,
-    "orders_before_dedupe": 3664,
-    "fresh_from_scan": 1099,
+    "orders": 1,
+    "orders_before_dedupe": 828,
+    "fresh_from_scan": 827,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
     "batches": 1,
-    "brands": 202
+    "brands": 165
   },
   "batches": [
     {
-      "id": "2026-11-17/13-00",
-      "count": 2
+      "id": "2026-11-21/09-30",
+      "count": 1
     }
   ],
   "orders": [
-    {
-      "jdOrderNo": "351963092489",
-      "gtOrderNo": "1261028150606649",
-      "brand": "海康威视",
-      "recipient": "刘慧",
-      "batch": "2026-11-17/13-00",
-      "pdf": "pdfs/2026-11-17/13-00/351963092489.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-17T15:07:55+08:00"
-    },
     {
       "jdOrderNo": "352038077399",
       "gtOrderNo": "1261029083300342",
       "brand": "钢盾",
       "recipient": "曹慧璠",
-      "batch": "2026-11-17/13-00",
-      "pdf": "pdfs/2026-11-17/13-00/352038077399.pdf",
+      "batch": "2026-11-21/09-30",
+      "pdf": "pdfs/2026-11-21/09-30/352038077399.pdf",
       "pageCount": 2,
-      "exportedAt": "2026-11-17T15:07:55+08:00"
+      "exportedAt": "2026-11-21T10:57:32+08:00"
     }
   ]
 }

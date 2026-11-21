@@ -1,129 +1,41 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-17T15:07:55+08:00",
+  "generatedAt": "2026-11-21T10:57:49+08:00",
   "totals": {
-    "orders": 10,
-    "orders_before_dedupe": 3664,
-    "fresh_from_scan": 1099,
+    "orders": 2,
+    "orders_before_dedupe": 828,
+    "fresh_from_scan": 827,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 3,
-    "brands": 202
+    "batches": 1,
+    "brands": 165
   },
   "batches": [
     {
-      "id": "2026-11-17/13-00",
-      "count": 6
-    },
-    {
-      "id": "2026-11-17/09-30",
-      "count": 2
-    },
-    {
-      "id": "2026-11-16/09-30",
+      "id": "2026-11-21/09-30",
       "count": 2
     }
   ],
   "orders": [
     {
-      "jdOrderNo": "352118189412",
-      "gtOrderNo": "1261103162610669",
-      "brand": "海康威视",
-      "recipient": "郭兵",
-      "batch": "2026-11-17/13-00",
-      "pdf": "pdfs/2026-11-17/13-00/352118189412.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-17T15:07:55+08:00"
-    },
-    {
-      "jdOrderNo": "352017942654",
-      "gtOrderNo": "1261103162610671",
-      "brand": "海康威视",
-      "recipient": "陈钢",
-      "batch": "2026-11-17/13-00",
-      "pdf": "pdfs/2026-11-17/13-00/352017942654.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-17T15:07:55+08:00"
-    },
-    {
-      "jdOrderNo": "352016802847",
-      "gtOrderNo": "1261103142206884",
-      "brand": "⾦采云墨",
-      "recipient": "孙宏海",
-      "batch": "2026-11-17/13-00",
-      "pdf": "pdfs/2026-11-17/13-00/352016802847.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-17T15:07:55+08:00"
-    },
-    {
-      "jdOrderNo": "351905217210",
-      "gtOrderNo": "1261103162610670",
-      "brand": "海康威视",
-      "recipient": "郭芳",
-      "batch": "2026-11-17/13-00",
-      "pdf": "pdfs/2026-11-17/13-00/351905217210.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-17T15:07:55+08:00"
-    },
-    {
-      "jdOrderNo": "351577164237",
-      "gtOrderNo": "1261103165811753",
-      "brand": "海康威视",
-      "recipient": "王⼤鹏",
-      "batch": "2026-11-17/09-30",
-      "pdf": "pdfs/2026-11-17/09-30/351577164237.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-17T11:41:59+08:00"
-    },
-    {
-      "jdOrderNo": "351846340307",
-      "gtOrderNo": "1261104014100055",
-      "brand": "尚为",
-      "recipient": "王志敏（检测）",
-      "batch": "2026-11-16/09-30",
-      "pdf": "pdfs/2026-11-16/09-30/351846340307.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-16T10:42:33+08:00"
-    },
-    {
-      "jdOrderNo": "352144104532",
-      "gtOrderNo": "1261104111004888",
-      "brand": "创亿佳",
-      "recipient": "朱绎如",
-      "batch": "2026-11-17/09-30",
-      "pdf": "pdfs/2026-11-17/09-30/352144104532.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-17T11:41:59+08:00"
-    },
-    {
       "jdOrderNo": "352106651527",
       "gtOrderNo": "1261104150708078",
       "brand": "⾼壹⼯机",
       "recipient": "李忠华",
-      "batch": "2026-11-17/13-00",
-      "pdf": "pdfs/2026-11-17/13-00/352106651527.pdf",
+      "batch": "2026-11-21/09-30",
+      "pdf": "pdfs/2026-11-21/09-30/352106651527.pdf",
       "pageCount": 1,
-      "exportedAt": "2026-11-17T15:07:55+08:00"
-    },
-    {
-      "jdOrderNo": "351912165529",
-      "gtOrderNo": "1261103165211550",
-      "brand": "海康威视",
-      "recipient": "集安交接所侯森",
-      "batch": "2026-11-16/09-30",
-      "pdf": "pdfs/2026-11-16/09-30/351912165529.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-16T10:42:33+08:00"
+      "exportedAt": "2026-11-21T10:57:32+08:00"
     },
     {
       "jdOrderNo": "352144885238",
       "gtOrderNo": "1261104172312151",
       "brand": "简⼯智能",
       "recipient": "黎思睿",
-      "batch": "2026-11-17/13-00",
-      "pdf": "pdfs/2026-11-17/13-00/352144885238.pdf",
+      "batch": "2026-11-21/09-30",
+      "pdf": "pdfs/2026-11-21/09-30/352144885238.pdf",
       "pageCount": 1,
-      "exportedAt": "2026-11-17T15:07:55+08:00"
+      "exportedAt": "2026-11-21T10:57:32+08:00"
     }
   ]
 }

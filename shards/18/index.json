@@ -1,31 +1,15 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-17T15:07:55+08:00",
+  "generatedAt": "2026-11-21T10:57:49+08:00",
   "totals": {
-    "orders": 1,
-    "orders_before_dedupe": 3664,
-    "fresh_from_scan": 1099,
+    "orders": 0,
+    "orders_before_dedupe": 828,
+    "fresh_from_scan": 827,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 1,
-    "brands": 202
+    "batches": 0,
+    "brands": 165
   },
-  "batches": [
-    {
-      "id": "2026-11-16/09-30",
-      "count": 1
-    }
-  ],
-  "orders": [
-    {
-      "jdOrderNo": "351947980095",
-      "gtOrderNo": "1261030144305864",
-      "brand": "华为",
-      "recipient": "曾静婷",
-      "batch": "2026-11-16/09-30",
-      "pdf": "pdfs/2026-11-16/09-30/351947980095.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-16T10:42:33+08:00"
-    }
-  ]
+  "batches": [],
+  "orders": []
 }

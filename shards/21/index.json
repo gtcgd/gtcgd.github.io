@@ -1,99 +1,31 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-17T15:07:55+08:00",
+  "generatedAt": "2026-11-21T10:57:49+08:00",
   "totals": {
-    "orders": 7,
-    "orders_before_dedupe": 3664,
-    "fresh_from_scan": 1099,
+    "orders": 1,
+    "orders_before_dedupe": 828,
+    "fresh_from_scan": 827,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
-    "batches": 3,
-    "brands": 202
+    "batches": 1,
+    "brands": 165
   },
   "batches": [
     {
-      "id": "2026-11-17/13-00",
-      "count": 4
-    },
-    {
-      "id": "2026-11-17/09-30",
-      "count": 2
-    },
-    {
-      "id": "2026-11-16/09-30",
+      "id": "2026-11-21/09-30",
       "count": 1
     }
   ],
   "orders": [
     {
-      "jdOrderNo": "351863987155",
-      "gtOrderNo": "1261105094502213",
-      "brand": "岚昶",
-      "recipient": "任志宙",
-      "batch": "2026-11-17/13-00",
-      "pdf": "pdfs/2026-11-17/13-00/351863987155.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-17T15:07:55+08:00"
-    },
-    {
-      "jdOrderNo": "351863033522",
-      "gtOrderNo": "1261105084800519",
-      "brand": "海康威视",
-      "recipient": "游宇",
-      "batch": "2026-11-16/09-30",
-      "pdf": "pdfs/2026-11-16/09-30/351863033522.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-16T10:42:33+08:00"
-    },
-    {
-      "jdOrderNo": "351849015298",
-      "gtOrderNo": "1261105112805178",
-      "brand": "德顺发",
-      "recipient": "何垚毅",
-      "batch": "2026-11-17/09-30",
-      "pdf": "pdfs/2026-11-17/09-30/351849015298.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-17T11:41:59+08:00"
-    },
-    {
-      "jdOrderNo": "351925153531",
-      "gtOrderNo": "1261106092001125",
-      "brand": "尚为",
-      "recipient": "崔海峰",
-      "batch": "2026-11-17/13-00",
-      "pdf": "pdfs/2026-11-17/13-00/351925153531.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-17T15:07:55+08:00"
-    },
-    {
-      "jdOrderNo": "351917335003",
-      "gtOrderNo": "1261105173511595",
-      "brand": "⾦辉",
-      "recipient": "赵红艳",
-      "batch": "2026-11-17/13-00",
-      "pdf": "pdfs/2026-11-17/13-00/351917335003.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-17T15:07:55+08:00"
-    },
-    {
       "jdOrderNo": "351882811248",
       "gtOrderNo": "1261106090700873",
       "brand": "海康威视",
       "recipient": "王思祺",
-      "batch": "2026-11-17/13-00",
-      "pdf": "pdfs/2026-11-17/13-00/351882811248.pdf",
+      "batch": "2026-11-21/09-30",
+      "pdf": "pdfs/2026-11-21/09-30/351882811248.pdf",
       "pageCount": 1,
-      "exportedAt": "2026-11-17T15:07:55+08:00"
-    },
-    {
-      "jdOrderNo": "352169059222",
-      "gtOrderNo": "1261106103402675",
-      "brand": "豹牌",
-      "recipient": "赵宏琨",
-      "batch": "2026-11-17/09-30",
-      "pdf": "pdfs/2026-11-17/09-30/352169059222.pdf",
-      "pageCount": 1,
-      "exportedAt": "2026-11-17T11:41:59+08:00"
+      "exportedAt": "2026-11-21T10:57:32+08:00"
     }
   ]
 }
