@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-27T13:28:31+08:00",
+  "generatedAt": "2026-11-27T15:54:43+08:00",
   "totals": {
-    "orders": 48,
-    "orders_before_dedupe": 10086,
-    "fresh_from_scan": 2269,
+    "orders": 50,
+    "orders_before_dedupe": 10731,
+    "fresh_from_scan": 2271,
     "retained_from_old_index": 0,
     "dropped_missing_pdf": 0,
     "batches": 1,
@@ -13,7 +13,7 @@
   "batches": [
     {
       "id": "2026-11-27/13-00",
-      "count": 48
+      "count": 50
     }
   ],
   "orders": [
@@ -496,6 +496,26 @@
       "pdf": "pdfs/2026-11-27/13-00/351837569487.pdf",
       "pageCount": 1,
       "exportedAt": "2026-11-27T13:28:29+08:00"
+    },
+    {
+      "jdOrderNo": "352394202277",
+      "gtOrderNo": "1261127131801913",
+      "brand": "科⼒邦",
+      "recipient": "陈剑",
+      "batch": "2026-11-27/13-00",
+      "pdf": "pdfs/2026-11-27/13-00/352394202277.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-27T15:54:41+08:00"
+    },
+    {
+      "jdOrderNo": "352226726969",
+      "gtOrderNo": "1261127131001838",
+      "brand": "鲁堡",
+      "recipient": "晏灏",
+      "batch": "2026-11-27/13-00",
+      "pdf": "pdfs/2026-11-27/13-00/352226726969.pdf",
+      "pageCount": 1,
+      "exportedAt": "2026-11-27T15:54:41+08:00"
     }
   ]
 }
